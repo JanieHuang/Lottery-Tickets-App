@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LotteryTickets</string>
+    <string name="action_settings">Settings</string>
+    <string name="getluckynumbers">Get Lucky Numbers</string>
+</resources>
